@@ -1,6 +1,6 @@
 #include "graphics.h"
 #include "picture.hpp"
-void fence 
+void fence()
 {
    setfillstyle(SOLID_FILL, COLOR(154, 108, 71));
    bar(550, 500, 570, 400);
